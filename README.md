@@ -17,6 +17,6 @@ defined by the bosonic creation (anhilation) operators $a^\dagger$ ($a$) and par
   
   The algorithm takes as input parameters: $\alpha$, $\beta$, $\epsilon$ and $\theta$ and computes the quantum Fidelity $F$ and Loschmidt Echo $M$ as
   
-  $$ F= $$
+  $$ F= \frac{||\langle\Psi_2(t)|\Psi_1(t)\rangle||^2}{\langle\Psi_1(t)|\Psi_1(t)\rangle\langle\Psi_2(t)|\Psi_2(t)\rangle} $$
   
   $$ M= $$
