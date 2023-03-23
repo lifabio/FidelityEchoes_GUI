@@ -29,7 +29,7 @@ The initial state $|\Psi_0\rangle$ can be chosen from:
   - Vacuum State $|\Psi_0\rangle = |0\rangle$
   - Single Fock state $|\Psi_0\rangle = |n_0\rangle$
 
-Figure  shows the visual appearence of the GUI.
+Figure FidelityGUI.png shows the visual appearence of the GUI.
   
 
 
