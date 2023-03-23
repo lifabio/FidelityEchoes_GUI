@@ -24,7 +24,7 @@ defined by the bosonic creation (anhilation) operators $a^\dagger$ ($a$) and par
 where $|\Psi_1(t)\rangle = e^{-i H t}|\Psi_0\rangle$ and $|\Psi_2(t)\rangle = e^{-i H_2 t}|\Psi_0\rangle$ are the forward propagation of the initial state $|\Psi_0\rangle$ according to $H$ and $H_2$ respectivelly. $|\Psi_f(t)\rangle = e^{+i H_2 t}e^{-i H t}|\Psi_0\rangle$ is the forward and then backward propagation of $|\Psi_0\rangle$ according to $H$ and $H_2$.
 
 The initial state $|\Psi_0\rangle$ can be chosen from:
-  - Equal superposition of Fock states $|\Psi_0\rangle$
+  - Equal superposition of Fock states $|\Psi_0\rangle = \frac{|1\rangle + |2\rangle + ... + |N\rangle}{\sqrt{N}}$
   - Coherent State $|\Psi_0\rangle = |z\rangle$ with $z=|\alpha_0|e^{i\sigma}$
   - Vacuum State $|\Psi_0\rangle = |0\rangle$
   - Single Fock state $|\Psi_0\rangle = |n_0\rangle$
