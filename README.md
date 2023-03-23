@@ -14,3 +14,9 @@ defined by the bosonic creation (anhilation) operators $a^\dagger$ ($a$) and par
   $$ P=(c + s)(a^\dagger a + \frac{1}{2}) + \frac{(s - c)}{2}(a^{\dagger 2} + a^2 ) $$
   
   and perturbation parameters $c$, $s$ defined as $c=\cos(\theta)$ and $s=\sin(\theta)$.
+  
+  The algorithm takes as input parameters: $\alpha$, $\beta$, $\epsilon$ and $\theta$ and computes the quantum Fidelity $F$ and Loschmidt Echo $M$ as
+  
+  $$ F= $$
+  
+  $$ M= $$
