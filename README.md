@@ -11,6 +11,6 @@ defined by the bosonic creation (anhilation) operators $a^\dagger$ ($a$) and par
 
   - a perturbated Hamiltonian $H_2 = H + \epsilon P$, with $P$ also in the quadratic form
   
-  $$ P=(a + b)(a^\dagger a + \frac{1}{2}) + \frac{(b - a)}{2}(a^{\dagger 2} + a^2 ) $$
+  $$ P=(c + s)(a^\dagger a + \frac{1}{2}) + \frac{(s - c)}{2}(a^{\dagger 2} + a^2 ) $$
   
-  and a,b defined as $a=\cos(\theta)$ and $b=\sin(\theta)$.
+  and perturbation parameters $c$, $s$ defined as $c=\cos(\theta)$ and $s=\sin(\theta)$.
